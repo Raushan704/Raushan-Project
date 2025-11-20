@@ -1,4 +1,4 @@
-# 🧠 Intelligent Deep Learning Chatbot
+# 🧠 Quill bot
 
 An AI-powered chatbot that processes PDF documents and answers questions about their content using natural language processing and machine learning techniques.
 
